@@ -21,8 +21,4 @@ This project presents an interactive **Customer Churn Analysis Dashboard** desig
 * **Data Processing & Modeling:** DAX Measures, Calculated Columns, Time Intelligence
 * **Visuals:** Donut Charts, Stacked Bar Charts, KPI Cards, Matrix Tables
 
----
 
-## 📁 Repository Structure
-* `Customer_Churn_Analysis.pbix` – Interactive Power BI Dashboard File
-* `churn_preview.png` – High-Resolution Dashboard Preview Image
